@@ -1,0 +1,3 @@
+Data For Training
+
+This folder contains of training data in .csv file and the preprocessing code to prepare training sentences that is the input to our model
